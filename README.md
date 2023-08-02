@@ -1,3 +1,9 @@
+Hello everyone, this is Joshita.
+
+I've been working on a React project that utilizes hooks and JSX. The project focuses on creating a photo gallery, allowing users to easily view online photos in a seamless manner.
+
+Here's an overview of the project and its configuration details:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
